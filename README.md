@@ -1,13 +1,5 @@
 # PikaTorrent
 
-<img src="./assets/logo.svg" alt="PikaTorrent logo" width="64"/>
-
-Just pick a Torrent. Stream and download torrents on all your devices.
-
-<a href="https://discord.gg/6HxCV4aGdy">
-  <img src="https://img.shields.io/badge/Join_us_on_discord-gray?logo=discord" />
-</a>
-
 ## Installation
 
 To receive updates automatically and ensure the app handles links shares correctly, installation through app stores is recommended.
