@@ -24,9 +24,6 @@ The releases are currently considered beta. Features might changes and things co
 
 See [docs/development.md](./docs/development.md)
 
-## Upgrade to >= v0.10.0
-
-PikaTorrent has been rewritten from scratch for v0.10.0. If you already use a previous release, upgrading to v0.10.0 will most likely not display your previous torrents.
 
 If you want to migrate your torrents :
 
